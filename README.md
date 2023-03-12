@@ -63,3 +63,8 @@ La creación de plantillas sobre el ciberdelincuente, no supone únicamente iden
 
 Los chicos de la ponencia mostraron en directo una herramienta que permitía automatizar la construcción de un perfil específico, de acuerdo a la naturaleza de diferentes aspectos que identificaban al delincuente y que iban siendo introducidos en un formulario.
 
+### Deepfakes: un gran poder conlleva una gran responsabilidad
+:woman: ***Ponente:*** Ángela Barriga Rodríguez
+
+:page_facing_up: ***Resumen:*** CHARLA SÚPER INTERESANTE.
+

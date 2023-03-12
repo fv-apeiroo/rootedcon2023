@@ -64,7 +64,9 @@ La creación de plantillas sobre el ciberdelincuente, no supone únicamente iden
 Los chicos de la ponencia mostraron en directo una herramienta que permitía automatizar la construcción de un perfil específico, de acuerdo a la naturaleza de diferentes aspectos que identificaban al delincuente y que iban siendo introducidos en un formulario.
 
 #### :heavy_plus_sign: INFO EXTRA
-Vinculado a los elementos que componen los perfiles predefinidos del atacante, están los CVEs y en general las vulnerabilidades que pueden afectar en conjunto pero que, debido
+Uno de los comentarios más recurrentes de los ponentes fue: "Los atacantes tendrán constancia de una vulnerabilidad en el momento en que esta se detecte, por tanto, intentarán beneficiarse de la misma tan pronto como puedan". Es importante tener esto en cuenta a la hora de definir nuestros profilings e intentar dar una rápida respuesta a futuros ataques.
+Vinculado a los elementos que componen los perfiles predefinidos del atacante, están los CVEs. PARA EJEMPLIFICAR TODO ESTO, MENCIONARON UNA NOTICIA ACERCA DE UN ATAQUE MASIVO DE MALWARE ACONTECIDO EN FEBRERO DE ESTE AÑO CON CVE REGISTRADO DESDE 2021:
+> :link: [Noticia](https://cso.computerworld.es/cibercrimen/ataque-masivo-de-ransomware-contra-servidores-vmware-esxi-en-todo-el-mundo)
 
 ### Deepfakes: un gran poder conlleva una gran responsabilidad
 :woman: ***Ponente:*** Ángela Barriga Rodríguez

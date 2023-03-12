@@ -53,5 +53,13 @@ Se trataron numerosos protocolos como el RTR, destinado también a verificar rut
 
 :page_facing_up: ***Resumen:*** SIN DUDA, DE MIS CHARLAS FAVORITAS.
 
-Todas las ponencias están relacionadas de algún modo con la ciberseguridad y el impacto de promoverla para asegurar la integridad de nuestros datos, productos... Sin embargo, esta fue la primera que relacioné directamente con el entorno laboral en el que nos movemos.
+Todas las ponencias están relacionadas de algún modo con la ciberseguridad y el impacto que genera promoverla para asegurar la integridad de nuestros datos, productos... Sin embargo, esta fue la primera que relacioné directamente con el entorno laboral en el que nos movemos.
+
+Resumiendo, se trató el concepto de "Profilings" que hace referencia a la generación de arquetipos basados en las características del "malo" o adversario digital. De esta manera se responde un poco a las preguntas que surgen cuando un equipo de seguridad debe enfrentarse a un incidente o garantizar directamente la seguridad de un cliente en el tiempo. 
+
+La creación de plantillas sobre el ciberdelincuente, no supone únicamente identificar y poner remedio a la amenaza, sino aplicarlas sobre todas las herramientas que intervienen en el suceso o incidente:
+
+![imagen](https://user-images.githubusercontent.com/109788768/224569188-aefd20c6-0ee7-465e-9e8f-c9f07ba1424f.png)
+
+Los chicos de la ponencia mostraron en directo una herramienta que permitía automatizar la construcción de un perfil específico, de acuerdo a la naturaleza de diferentes aspectos que identificaban al delincuente y que iban siendo introducidos en un formulario.
 

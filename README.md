@@ -46,7 +46,7 @@ La parte final de la ponencia estuvo enfocada en las acciones y aspectos a tener
 #### :heavy_plus_sign: INFO EXTRA
 Se trataron numerosos protocolos como el RTR, destinado también a verificar rutas...
 
-:arrow_forward: ***CHARLA LÍNEA DIRECTA***
+:arrow_forward: ***CHARLA LÍNEA DIRECTA / USBs infectados...***
 
 ### ¡Por mis profilings!
 :man: ***Ponente/s:*** Santiago Anaya Godoy, Jorge Testa
@@ -62,6 +62,9 @@ La creación de plantillas sobre el ciberdelincuente, no supone únicamente iden
 ![imagen](https://user-images.githubusercontent.com/109788768/224569188-aefd20c6-0ee7-465e-9e8f-c9f07ba1424f.png)
 
 Los chicos de la ponencia mostraron en directo una herramienta que permitía automatizar la construcción de un perfil específico, de acuerdo a la naturaleza de diferentes aspectos que identificaban al delincuente y que iban siendo introducidos en un formulario.
+
+#### :heavy_plus_sign: INFO EXTRA
+Vinculado a los elementos que componen los perfiles predefinidos del atacante, están los CVEs y en general las vulnerabilidades que pueden afectar en conjunto pero que, debido
 
 ### Deepfakes: un gran poder conlleva una gran responsabilidad
 :woman: ***Ponente:*** Ángela Barriga Rodríguez

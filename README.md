@@ -73,3 +73,61 @@ Vinculado a los elementos que componen los perfiles predefinidos del atacante, e
 
 :page_facing_up: ***Resumen:*** CHARLA SÚPER INTERESANTE.
 
+Esta conferencia estuvo centrada en la proliferación masiva de los deepfakes
+
+### Don’t fear the Hacker, Collaborate with them
+:man: ***Ponente:*** Yassir KAZAR
+
+:page_facing_up: ***Resumen:*** 
+
+### De la seguridad de las APIs y de cómo esconderse debajo de las sábanas no te librará de los monstruos
+:man: ***Ponente:*** Daniel García
+
+:page_facing_up: ***Resumen:***
+
+## :date: 10 Marzo
+
+### Ataques Bluetooth, de la teoría a la práctica… (hay un trecho)
+:man: ***Ponente/s:*** Antonio Vázquez Blanco, Jesús María Gómez Moreno
+
+:page_facing_up: ***Resumen:***
+
+### HUMINT (Human Intelligence) against the hacker
+:man: ***Ponente/s:*** Andres Soriano Guillamon, Javier Rodríguez
+
+:page_facing_up: ***Resumen:***
+
+### ¿Realmente somos las personas el eslabón mas débil de la cadena?
+:woman: ***Ponente:*** Julia Cortes Delgado
+
+:page_facing_up: ***Resumen:***
+
+### Una aproximación técnica a la privacidad: la k-anonimización
+:woman: ***Ponente:*** María Blanca Muñoz Pérez
+
+:page_facing_up: ***Resumen:***
+
+### Are you talking to me?
+:man: ***Ponente:*** Chema Alonso
+
+:page_facing_up: ***Resumen:***
+
+### ¿Y si conozco lo que tecleas? Un estudio de viabilidad
+:woman: ***Ponente:*** Lorena González Manzano
+
+:page_facing_up: ***Resumen:***
+
+### ¡Ven a la escuela de calor! (#mitreando)
+:man: ***Ponente:*** Emilio Rico Ruiz
+
+:page_facing_up: ***Resumen:***
+
+### "We are all mad here" - Cómo crear una infraestructura potente de Red Teaming
+:woman: ***Ponente:*** Sandra Bardón Moral
+
+:page_facing_up: ***Resumen:***
+
+### Hacking RFID - Clonación de tarjetas
+:man: ***Ponente:*** Antonio José Sánchez Moscoso
+
+:page_facing_up: ***Resumen:***

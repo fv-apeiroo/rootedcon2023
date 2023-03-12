@@ -46,3 +46,12 @@ La parte final de la ponencia estuvo enfocada en las acciones y aspectos a tener
 #### :heavy_plus_sign: INFO EXTRA
 Se trataron numerosos protocolos como el RTR, destinado también a verificar rutas...
 
+:arrow_forward: ***CHARLA LÍNEA DIRECTA***
+
+### ¡Por mis profilings!
+:man: ***Ponente/s:*** Santiago Anaya Godoy, Jorge Testa
+
+:page_facing_up: ***Resumen:*** SIN DUDA, DE MIS CHARLAS FAVORITAS.
+
+Todas las ponencias están relacionadas de algún modo con la ciberseguridad y el impacto de promoverla para asegurar la integridad de nuestros datos, productos... Sin embargo, esta fue la primera que relacioné directamente con el entorno laboral en el que nos movemos.
+

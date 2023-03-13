@@ -1,7 +1,7 @@
 # /Rooted:unlock:CON :two::zero::two::three:
-> *Exponer y compartir conocimientos en materia de ciberseguridad entre los diferentes miembros de la comunidad*
+> *Exponer y compartir conocimientos en materia de ciberseguridad entre los diferentes miembros de la comunidad...*
 
-No hay mejor frase para describir el propósito principal de esta conferencia de seguridad informática.
+Es la frase que describe el principal propósito de esta conferencia de seguridad informática.
 
 ## :date: 9 Marzo
 
